@@ -260,10 +260,8 @@ Visit your domain or server IP address in a web browser to access the deployed a
 
 ## Authors
 This exceptional project was expertly developed as an end-of-module assignment. Our talented team, consisting of:
-  - Anas Lamaiz [@Anass001](https://github.com/Anass001)
-  - Ismail Oukha [@itsmeismaill](https://github.com/itsmeismaill)
+  - sheik hameed  [@Hameed-shaik123](https://github.com/Hameed-shaik123/)
+ 
 
-collaborated under the invaluable guidance of Professor:
-  - Mr. Lotfi Elaachak
 
 Together, we dedicated ourselves to crafting a remarkable endeavor that showcases our skills and knowledge in the field of web development and frameworks.
